@@ -1,0 +1,16 @@
+# Android/Gradle generated files
+.gradle/
+**/build/
+local.properties
+
+# Android Studio / IntelliJ local settings
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys and local secrets
+*.jks
+*.keystore
+secrets.properties
